@@ -21,7 +21,7 @@ TrafficEye is a Python-based packet sniffer that captures and analyzes network t
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/mrz-Z0r4B/TrafficEye.git
    cd TrafficEye
    ```
 2. Install required packages:
