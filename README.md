@@ -28,9 +28,6 @@ TrafficEye is a Python-based packet sniffer that captures and analyzes network t
    ```bash
    pip install scapy pillow
    ```
-   ```bash
-   pip3 install -r requirements.txt
-   ```
 ## Usage
 To run the tool, ensure you have superuser privileges. Execute the following command in your terminal:
 
